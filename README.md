@@ -19,7 +19,7 @@
 
 - 📫 **How to reach me**:  
   📧 Email: [belfkihosni@gmail.com](mailto:belfkihosni@gmail.com)  
-  🔗 LinkedIn: [linkedin.com/in/hosni-belfeki-a96964299](https://linkedin.com/in/hosni-belfeki-a96964299)  
+  🔗 LinkedIn: [linkedin.com/in/hosni-belfeki-a96964299](https://linkedin.com/in/hosnibelfeki)  
   📱 Phone: +216 97340421  
 
 - 😄 **Pronouns**: He/Him  
