@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/HosniBelfeki"><img src="https://img.shields.io/github/followers/HosniBelfeki?label=Followers&style=for-the-badge&color=2e9ef7&logo=github" alt="GitHub Followers" /></a>
-  <a href="https://github.com/HosniBelfeki?tab=repositories"><img src="https://img.shields.io/badge/Repositories-5-2e9ef7?style=for-the-badge&logo=github" alt="Repositories" /></a>
+  <a href="https://github.com/HosniBelfeki?tab=repositories"><img src="https://img.shields.io/badge/Repositories-6-2e9ef7?style=for-the-badge&logo=github" alt="Repositories" /></a>
   <img src="https://komarev.com/ghpvc/?username=HosniBelfeki&style=for-the-badge&color=2e9ef7" alt="Profile Views" />
 </p>
 
@@ -67,6 +67,12 @@ I'm a passionate **Big Data & Data Analytics student** at ISIMS, driven by a lov
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+### ☁️ Cloud & Big Data
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Vertex AI](https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
+
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -84,7 +90,62 @@ I'm a passionate **Big Data & Data Analytics student** at ISIMS, driven by a lov
 
 ---
 
-## 🎯 Featured Projects
+## 🎯 My Projects
+
+<div align="center">
+
+### 💡 Featured: Latest Hackathon Project
+
+<a href="https://github.com/HosniBelfeki/BigQuery-AI-Intelligent-Customer-Support-Analytics">
+  <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=HosniBelfeki&repo=BigQuery-AI-Intelligent-Customer-Support-Analytics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF&show_owner=true" />
+</a>
+
+### 🚀 BigQuery AI - Intelligent Customer Support Analytics
+[![Stars](https://img.shields.io/github/stars/HosniBelfeki/BigQuery-AI-Intelligent-Customer-Support-Analytics?style=social)](https://github.com/HosniBelfeki/BigQuery-AI-Intelligent-Customer-Support-Analytics)
+![Last Updated](https://img.shields.io/github/last-commit/HosniBelfeki/BigQuery-AI-Intelligent-Customer-Support-Analytics?style=flat-square&color=2E9EF7)
+![License](https://img.shields.io/badge/License-MIT-2E9EF7?style=flat-square)
+
+**🎯 BigQuery AI Hackathon Submission**
+
+An enterprise-grade analytics platform that transforms raw customer support tickets into actionable insights using Google Cloud's BigQuery and Gemini AI. Features predictive analytics, real-time alerting, and executive dashboards - all within a scalable SQL-based environment.
+
+**✨ Key Highlights:**
+- 🤖 **AI-Powered Extraction** - Gemini 2.0 Flash for structured data extraction
+- 🔍 **Semantic Search** - Multilingual embeddings for ticket similarity
+- 📊 **Predictive Analytics** - ARIMA_PLUS models for volume forecasting
+- 🚨 **Real-Time Alerts** - Anomaly detection for spikes and sentiment drops
+- 💼 **Executive Dashboards** - KPIs, trends, and performance monitoring
+- 🎯 **Customer Journey** - Track interactions and identify patterns
+- 💰 **ROI Calculator** - $50K+ annual cost savings estimation
+- 🧠 **Root Cause Analysis** - Automated pattern identification
+
+**🛠️ Tech Stack:** Google BigQuery • BigQuery ML • Vertex AI • Gemini 2.0 • SQL • Python
+
+[🚀 View Project →](https://github.com/HosniBelfeki/BigQuery-AI-Intelligent-Customer-Support-Analytics)
+
+---
+
+### 📂 All Repositories
+
+<a href="https://github.com/HosniBelfeki/BigQuery-AI-Intelligent-Customer-Support-Analytics">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HosniBelfeki&repo=BigQuery-AI-Intelligent-Customer-Support-Analytics&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/HosniBelfeki/flashonic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HosniBelfeki&repo=flashonic&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/HosniBelfeki/lifesync-ai">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HosniBelfeki&repo=lifesync-ai&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/HosniBelfeki/BeatTeller">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HosniBelfeki&repo=BeatTeller&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" />
+</a>
+<a href="https://github.com/HosniBelfeki/AI_Coding_Assistant_Backend">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=HosniBelfeki&repo=AI_Coding_Assistant_Backend&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2E9EF7&icon_color=2E9EF7&text_color=FFFFFF" />
+</a>
+
+</div>
+
+---
 
 <div align="center">
 
@@ -92,8 +153,28 @@ I'm a passionate **Big Data & Data Analytics student** at ISIMS, driven by a lov
 <tr>
 <td width="50%">
 
+### 🚀 [BigQuery AI - Customer Support Analytics](https://github.com/HosniBelfeki/BigQuery-AI-Intelligent-Customer-Support-Analytics)
+[![Stars](https://img.shields.io/github/stars/HosniBelfeki/BigQuery-AI-Intelligent-Customer-Support-Analytics?style=social)](https://github.com/HosniBelfeki/BigQuery-AI-Intelligent-Customer-Support-Analytics)
+![Last Updated](https://img.shields.io/github/last-commit/HosniBelfeki/BigQuery-AI-Intelligent-Customer-Support-Analytics?style=flat-square&color=2E9EF7)
+
+**SQL • Python • Google Cloud • AI/ML**
+
+BigQuery AI Hackathon submission. Enterprise-grade analytics platform using Gemini AI for intelligent customer support insights, predictive analytics, and real-time alerting.
+
+**Key Features:**
+- 🤖 Gemini AI-powered extraction
+- 📊 Predictive analytics (ARIMA)
+- 🚨 Real-time anomaly alerts
+- 💰 $50K+ ROI estimation
+
+[View Project →](https://github.com/HosniBelfeki/BigQuery-AI-Intelligent-Customer-Support-Analytics)
+
+</td>
+<td width="50%">
+
 ### 🔥 [Flashonic](https://github.com/HosniBelfeki/flashonic)
 [![Stars](https://img.shields.io/github/stars/HosniBelfeki/flashonic?style=social)](https://github.com/HosniBelfeki/flashonic)
+![Last Updated](https://img.shields.io/github/last-commit/HosniBelfeki/flashonic?style=flat-square&color=2E9EF7)
 
 **TypeScript • MIT License**
 
@@ -108,10 +189,14 @@ A modern flashcard application leveraging TypeScript for enhanced learning exper
 [View Project →](https://github.com/HosniBelfeki/flashonic)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 🤖 [LifeSync AI](https://github.com/HosniBelfeki/lifesync-ai)
 [![Stars](https://img.shields.io/github/stars/HosniBelfeki/lifesync-ai?style=social)](https://github.com/HosniBelfeki/lifesync-ai)
+![Last Updated](https://img.shields.io/github/last-commit/HosniBelfeki/lifesync-ai?style=flat-square&color=2E9EF7)
 
 **TypeScript • AI-Powered**
 
@@ -126,13 +211,11 @@ An intelligent life management assistant powered by AI. Helps users organize tas
 [View Project →](https://github.com/HosniBelfeki/lifesync-ai)
 
 </td>
-</tr>
-
-<tr>
 <td width="50%">
 
 ### 🎵 [BeatTeller](https://github.com/HosniBelfeki/BeatTeller)
 [![Stars](https://img.shields.io/github/stars/HosniBelfeki/BeatTeller?style=social)](https://github.com/HosniBelfeki/BeatTeller)
+![Last Updated](https://img.shields.io/github/last-commit/HosniBelfeki/BeatTeller?style=flat-square&color=2E9EF7)
 
 **JavaScript • Music Tech**
 
@@ -147,10 +230,14 @@ An innovative music analysis and storytelling platform that transforms audio int
 [View Project →](https://github.com/HosniBelfeki/BeatTeller)
 
 </td>
+</tr>
+
+<tr>
 <td width="50%">
 
 ### 💻 [AI Coding Assistant Backend](https://github.com/HosniBelfeki/AI_Coding_Assistant_Backend)
 [![Stars](https://img.shields.io/github/stars/HosniBelfeki/AI_Coding_Assistant_Backend?style=social)](https://github.com/HosniBelfeki/AI_Coding_Assistant_Backend)
+![Last Updated](https://img.shields.io/github/last-commit/HosniBelfeki/AI_Coding_Assistant_Backend?style=flat-square&color=2E9EF7)
 
 **Python • AI/ML**
 
@@ -163,6 +250,11 @@ A powerful backend system for an AI-powered coding assistant. Provides intellige
 - ⚡ Fast processing
 
 [View Project →](https://github.com/HosniBelfeki/AI_Coding_Assistant_Backend)
+
+</td>
+<td width="50%">
+
+<!-- Space for future project -->
 
 </td>
 </tr>
@@ -200,7 +292,7 @@ A powerful backend system for an AI-powered coding assistant. Provides intellige
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/HosniBelfeki/HosniBelfeki/output/github-contribution-grid-snake-dark.svg)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HosniBelfeki&custom_title=Contribution%20Graph&bg_color=0D1117&color=2E9EF7&line=2E9EF7&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
@@ -224,8 +316,8 @@ I'm always open to collaborating on innovative projects, discussing new technolo
 
 <p>
 <a href="https://github.com/HosniBelfeki"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://linkedin.com/in/hosni-belfeki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:belfkihosni@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://linkedin.com/in/hosnibelfeki"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ### ⚡ Fun Fact
