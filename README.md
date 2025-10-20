@@ -6,7 +6,6 @@
 
 <p align="center">
   <a href="https://github.com/HosniBelfeki"><img src="https://img.shields.io/github/followers/HosniBelfeki?label=Followers&style=for-the-badge&color=2e9ef7&logo=github" alt="GitHub Followers" /></a>
-  <a href="https://github.com/HosniBelfeki?tab=repositories"><img src="https://img.shields.io/badge/Repositories-6-2e9ef7?style=for-the-badge&logo=github" alt="Repositories" /></a>
   <img src="https://komarev.com/ghpvc/?username=HosniBelfeki&style=for-the-badge&color=2e9ef7" alt="Profile Views" />
 </p>
 
