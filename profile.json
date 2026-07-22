@@ -1,0 +1,22 @@
+{
+  "username": "HosniBelfeki",
+  "display_name": "Hosni Belfeki",
+  "email": "belfkihosni@gmail.com",
+  "linkedin": "hosnibelfeki",
+  "role": "AI Engineer",
+  "focus": "Agentic AI, LLM/RAG, Software Engineering",
+  "education": "B.S. Computer Science",
+  "languages": "Python, TypeScript, JavaScript, Java, SQL",
+  "ai_llm": "LangGraph, RAG, MCP, prompt engineering, evaluation",
+  "ml_cv": "PyTorch, TensorFlow, YOLOv8, OpenCV, NLP",
+  "backend": "FastAPI, Node.js, Express, Spring Boot, REST/GraphQL",
+  "data": "Qdrant, pgvector, BigQuery, Spark, MongoDB, MySQL",
+  "cloud": "AWS, GCP, Docker, Kubernetes, CI/CD, Jenkins",
+  "projects": [
+    "Simestra Code — autonomous agentic coding CLI",
+    "Resilibot — autonomous AWS incident-response agent",
+    "Healthcare AI - 3D dental segmentation and ECG generation",
+    "Simestra — multilingual document-intelligence assistant"
+  ],
+  "tagline": "Building scalable, reliable and practical AI software."
+}

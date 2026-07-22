@@ -1,0 +1,101 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="680" viewBox="0 0 1280 680" role="img" aria-labelledby="title desc">
+<title id="title">Hosni Belfeki GitHub profile</title>
+<desc id="desc">A terminal-style profile card with an ASCII portrait, technical skills, projects, contact information and GitHub statistics.</desc>
+<defs><clipPath id="asciiClip"><rect x="12" y="12" width="505" height="645" rx="10"/></clipPath></defs>
+<style>
+text, tspan { white-space: pre; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace; }
+.text { fill: #C9D1D9; }
+.muted { fill: #7D8590; }
+.key { fill: #58A6FF; font-weight: 700; }
+.value { fill: #A5D6FF; }
+.accent { fill: #3FB950; font-weight: 700; }
+.project { fill: #D2A8FF; }
+</style>
+<rect x="1" y="1" width="1278" height="678" rx="16" fill="#0D1117" stroke="#30363D" stroke-width="2"/>
+<line x1="532" y1="20" x2="532" y2="660" stroke="#30363D" stroke-width="1"/>
+<text x="18" y="27" font-size="8px" class="text" clip-path="url(#asciiClip)">
+<tspan x="18" y="27">.......................................:---====++++++=====--:.......................................</tspan>
+<tspan x="18" y="37.5">.................................:-=======+++++++++++++++++++++++=:.................................</tspan>
+<tspan x="18" y="48">.............................-========+++++++++++++++++++++++++++++++=-:............................</tspan>
+<tspan x="18" y="58.5">.........................:-============++++++++++++++++++++++++++++++++++=:.........................</tspan>
+<tspan x="18" y="69">......................:=====================+++++++++++*++++++++++++++++++++=:......................</tspan>
+<tspan x="18" y="79.5">....................-=====================++++*%%%%@@@@@@@@%*++++++++++++++++++-....................</tspan>
+<tspan x="18" y="90">.................:=======================+*%%%%@@@@@%%@@@@@@@@%*+++++++++++++++++=:.................</tspan>
+<tspan x="18" y="100.5">...............:=======================+#%%%@@@@@@@@@%@@@@@@@@@@%*+++++++++++++++++=:...............</tspan>
+<tspan x="18" y="111">..............========================+%%%@@@%%###*##%%%%@@@@@@@@@#++++++++++++++++++=..............</tspan>
+<tspan x="18" y="121.5">............-========================+%%%@%#**+++++++++***####%%@@@#+++++++++++++++++++-............</tspan>
+<tspan x="18" y="132">...........=========================+#%%%%++=======++++++++++****#@@%++++++++++++++++++++...........</tspan>
+<tspan x="18" y="142.5">.........-==========================+%%%%*=====--=========+++++****%%+++++++++++++++++++++-.........</tspan>
+<tspan x="18" y="153">........-===========================#@%#*+==-------========+++++****%%+++++++++++++++++++++=........</tspan>
+<tspan x="18" y="163.5">.......=============================#%#++==--------=========++++****#%++++++++++++++++++++++=.......</tspan>
+<tspan x="18" y="174">......==============================##+====----------========+++****#%++====+++++++++++++++++=......</tspan>
+<tspan x="18" y="184.5">.....-==============================#*+=====+***++=-----======+++***##+=====++++++++++++++++++=.....</tspan>
+<tspan x="18" y="195">....-===============================*+=====*+++*##%%#*++======++******+=====+++++++++++++++++++=....</tspan>
+<tspan x="18" y="205.5">...:================================*+==-==--=+++**#*+**+++*#@@@@@@%%*======++++++++++++++++++++-...</tspan>
+<tspan x="18" y="216">..:================================+++==----=+**%%*#*+---=+*#%#*****#+========+++++++++++++++++++:..</tspan>
+<tspan x="18" y="226.5">..-==============================*---==------===****++=--=+###@%%%#**+========+++++++++++++++++++=..</tspan>
+<tspan x="18" y="237">.:===============================+--===------=====+==----=+**####%%**+=========+++++++++++++++++++:.</tspan>
+<tspan x="18" y="247.5">.-================================*+===-------=====------=+****++++**+==========++++++++++++++++++-.</tspan>
+<tspan x="18" y="258">.=================================++-==--------====-----==+*+++++++**==========++++++++++++++++++++.</tspan>
+<tspan x="18" y="268.5">:=================================--===---------====-----=+**++++++++==========++++++++++++++++++++:</tspan>
+<tspan x="18" y="279">-==================================--===-------======*#===***++++++*+==========++++++++++++++++++++=</tspan>
+<tspan x="18" y="289.5">=====================================+===-----===---=+++*****++++***============+++++++++++++++++++=</tspan>
+<tspan x="18" y="300">=====================================+====----====+**#%%%%%#*+++++*+============++++++++++++++++++++</tspan>
+<tspan x="18" y="310.5">============================================--=+#*++***#####%******=============++++++++++++++++++++</tspan>
+<tspan x="18" y="321">======================================+========+==+++**##%%%%%#**#*=============++++++++++++++++++++</tspan>
+<tspan x="18" y="331.5">======================================++=======---==++++**#**####*=============+++=++++++++++++++++=</tspan>
+<tspan x="18" y="342">-================================+#%#==+++===----===+###******###===================+++++++++++++++-</tspan>
+<tspan x="18" y="352.5">:===============================*%@@+===+*+====--====+++*****##*===================++++++++++++++++:</tspan>
+<tspan x="18" y="363">.==============================#%%@%=====+***+======+=+++***##+===================+++++++++++++++++.</tspan>
+<tspan x="18" y="373.5">.-===========================+#%%%%@+====++***#**********##%+===============+++===++++++++++++++++-.</tspan>
+<tspan x="18" y="384">.:===========================#%%%%%%%*===+++****##%%%%%%%%#@@*=============++++===++++++++++++++++:.</tspan>
+<tspan x="18" y="394.5">..-========================+%%%%%%%%%%#++=++++*****#######%@@@#+========+===++====+++++++++++++++=..</tspan>
+<tspan x="18" y="405">..:====================+*%@@%%%%%%%%%%%%*+++++++****######%@@@@%+======+++++===++++++++++++++++++:..</tspan>
+<tspan x="18" y="415.5">...-================*%%@@@@@@%%%%%%%%%%%%#**++++*****##*###@@@@@@#+===+++++==+++++++++++++++++++-...</tspan>
+<tspan x="18" y="426">....-===========+*%@@@@@%%@@@%%%%%%%%%%%%%#**++*********###%@@@@@@@@%*+++++++++++++++++++++++++=....</tspan>
+<tspan x="18" y="436.5">.....-=======+#%@@@@@@@@%%%%@@%%%%%%%%%%%%@#***********##*#%@@@@@@@@@@@@#*++++++++++++++++++++=.....</tspan>
+<tspan x="18" y="447">......====*%%@@@@@%@@@@@@%%%@@@%%%%%%%%%%@@@#**************#@@@@@@@@@@@@@@@%*++++++++++++++++=......</tspan>
+<tspan x="18" y="457.5">.......+%@@@@@@@@@@@@@@@@@%%%@@%%%%%%%%@@@@@@%**++++++*****#@@@@@@@%@@@@@@@@@@%*+++++++++++++.......</tspan>
+<tspan x="18" y="468">........*@@@@@@@@@@@@%@@@@@%%%%%%%%%%@@@@@@@@@%*+++++++++**#@@@@@@@@@@@@@@@@@@@@@#+++++++++=........</tspan>
+<tspan x="18" y="478.5">.........+@@@@@@@@@@@@%@@@@%%%@%%%%@@@@@@@@@@@%%*++++++++++#@@@@@@@@@@@@@@@@@@@@@@%*++++++-.........</tspan>
+<tspan x="18" y="489">..........:%%%%@@@@@@@@%%@@@%%%@@@@@@@@@@@@@@@@@@#++++++++*%@@@@@@@@@@@@@@@@@@@@@@@@*++++...........</tspan>
+<tspan x="18" y="499.5">............+%%%%@@@@@@@%%@@@%%%@%%%%%%%%%%%%@@@@@@#*+++++*%@@@@@@@@@@@@@@@@@@@@@@@@%++-............</tspan>
+<tspan x="18" y="510">.............:#%%%%@@@@@%%%@@@%%%@%%%%%%%%%%%%%@@@@@@#++++#%@@@@@@@@@@@@@@@@@@@@@@@@@#:.............</tspan>
+<tspan x="18" y="520.5">...............-%%%%@@@@@%%%@@%%%%@%%%%%%%%%%%%%@@@@@@@*++%@@@@@@@@@@@@@@@@@@@@@@@@%-...............</tspan>
+<tspan x="18" y="531">.................-#%%@@@@%%%%@@%%%%%%%@%@%%%%%%%%@@@@%@@**%@@@@@@@@@@@@@@@@@@@@@@#=.................</tspan>
+<tspan x="18" y="541.5">...................:*%@@@@%%%@@@%%%%@@@@@@%%%%%%%%@@%%@@@#%%%@@@@@@@@@@@@@@@@@@*:...................</tspan>
+<tspan x="18" y="552">......................-%@@@%%%%@@%%%@@@@@@@%%%%%%%%@@%%@@@%%@@@@@@@@@@@@@@@@%=......................</tspan>
+<tspan x="18" y="562.5">.........................+#%%%%@@@@%%@@@@@@@%%%%%%%@@%%%@@@%@@@@@@@@@@@@@#+.........................</tspan>
+<tspan x="18" y="573">............................-+#%%@@@@@@@@@@@@%%%%%%%@@%%@@@@@@@@@@@@@%+-............................</tspan>
+<tspan x="18" y="583.5">.................................-#@@@@@@@@@@@%%%%%%@@@@@@@@@@@@@#=.................................</tspan>
+<tspan x="18" y="594">......................................:=+*##%%%%%@%%@%%%%##+=:......................................</tspan>
+</text>
+<text x="555" y="31" font-size="14px" class="text">
+<tspan x="555" y="31" class="accent">hosnibelfeki@github</tspan><tspan class="muted"> ---------------------------------------------</tspan>
+<tspan x="555" y="53" class="muted">. </tspan><tspan class="key">Name</tspan><tspan class="muted">: </tspan><tspan class="value">Hosni Belfeki</tspan>
+<tspan x="555" y="75" class="muted">. </tspan><tspan class="key">Role</tspan><tspan class="muted">: </tspan><tspan class="value">AI Engineer</tspan>
+<tspan x="555" y="97" class="muted">. </tspan><tspan class="key">Focus</tspan><tspan class="muted">: </tspan><tspan class="value">Agentic AI, LLM/RAG, Software Engineering</tspan>
+<tspan x="555" y="119" class="muted">. </tspan><tspan class="key">Education</tspan><tspan class="muted">: </tspan><tspan class="value">B.S. Computer Science</tspan>
+<tspan x="555" y="145" class="text">- Technical Stack </tspan><tspan class="muted">-------------------------------------</tspan>
+<tspan x="555" y="167" class="muted">. </tspan><tspan class="key">Languages</tspan><tspan class="muted">: </tspan><tspan class="value">Python, TypeScript, JavaScript, Java, SQL</tspan>
+<tspan x="555" y="189" class="muted">. </tspan><tspan class="key">AI.LLM</tspan><tspan class="muted">: </tspan><tspan class="value">LangGraph, RAG, MCP, prompt engineering, evaluation</tspan>
+<tspan x="555" y="211" class="muted">. </tspan><tspan class="key">ML.CV</tspan><tspan class="muted">: </tspan><tspan class="value">PyTorch, TensorFlow, YOLOv8, OpenCV, NLP</tspan>
+<tspan x="555" y="233" class="muted">. </tspan><tspan class="key">Backend</tspan><tspan class="muted">: </tspan><tspan class="value">FastAPI, Node.js, Express, Spring Boot, REST/GraphQL</tspan>
+<tspan x="555" y="255" class="muted">. </tspan><tspan class="key">Data</tspan><tspan class="muted">: </tspan><tspan class="value">Qdrant, pgvector, BigQuery, Spark, MongoDB, MySQL</tspan>
+<tspan x="555" y="277" class="muted">. </tspan><tspan class="key">Cloud.MLOps</tspan><tspan class="muted">: </tspan><tspan class="value">AWS, GCP, Docker, Kubernetes, CI/CD, Jenkins</tspan>
+<tspan x="555" y="303" class="text">- Featured Work </tspan><tspan class="muted">---------------------------------------</tspan>
+<tspan x="555" y="325" class="muted">. </tspan><tspan class="project">Simestra Code — autonomous agentic coding CLI</tspan>
+<tspan x="555" y="347" class="muted">. </tspan><tspan class="project">Resilibot — autonomous AWS incident-response agent</tspan>
+<tspan x="555" y="369" class="muted">. </tspan><tspan class="project">Healthcare AI - 3D dental segmentation and ECG generation</tspan>
+<tspan x="555" y="391" class="muted">. </tspan><tspan class="project">Simestra — multilingual document-intelligence assistant</tspan>
+<tspan x="555" y="417" class="text">- Contact </tspan><tspan class="muted">---------------------------------------------</tspan>
+<tspan x="555" y="439" class="muted">. </tspan><tspan class="key">Email</tspan><tspan class="muted">: </tspan><tspan class="value">belfkihosni@gmail.com</tspan>
+<tspan x="555" y="461" class="muted">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="muted">: </tspan><tspan class="value">/in/hosnibelfeki</tspan>
+<tspan x="555" y="483" class="muted">. </tspan><tspan class="key">GitHub</tspan><tspan class="muted">: </tspan><tspan class="value">@HosniBelfeki</tspan>
+<tspan x="555" y="509" class="text">- GitHub Stats </tspan><tspan class="muted">----------------------------------------</tspan>
+<tspan x="555" y="531" class="muted">. </tspan><tspan class="key">Repos</tspan><tspan class="muted">: </tspan><tspan class="value" id="repo_data">0</tspan><tspan class="muted">  |  </tspan><tspan class="key">Stars</tspan><tspan class="muted">: </tspan><tspan class="value" id="star_data">0</tspan><tspan class="muted">  |  </tspan><tspan class="key">Followers</tspan><tspan class="muted">: </tspan><tspan class="value" id="follower_data">0</tspan>
+<tspan x="555" y="553" class="muted">. Last refresh: </tspan><tspan class="value" id="updated_data">run the workflow</tspan>
+<tspan x="555" y="579" class="accent">$ echo </tspan><tspan class="text">&quot;Building scalable, reliable and practical AI software.&quot;</tspan>
+</text>
+</svg>
