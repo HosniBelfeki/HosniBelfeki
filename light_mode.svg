@@ -1,32 +1,53 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="488" viewBox="0 0 880 488" role="img" aria-labelledby="title desc">
 <title id="title">Hosni Belfeki GitHub profile</title>
-<desc id="desc">A terminal-style read-out listing role, focus, education, technical stack and contact details.</desc>
+<desc id="desc">An animated terminal card listing role, focus, education, technical stack and contact details.</desc>
+<defs>
+<clipPath id="typewriter">
+<rect x="26" y="424" height="23" width="828">
+<animate attributeName="width" values="0;0;828" keyTimes="0;0.552;1" dur="2.79s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;.2 .6 .3 1"/>
+</rect>
+</clipPath>
+</defs>
 <style>
 text, tspan { white-space: pre; font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, 'Liberation Mono', monospace; }
+text { font-size: 15px; }
 .text { fill: #24292F; }
 .muted { fill: #57606A; }
 .key { fill: #0969DA; font-weight: 700; }
 .value { fill: #0550AE; }
 .accent { fill: #1A7F37; font-weight: 700; }
+.chrome { fill: #57606A; font-size: 13px; }
+.row { animation: reveal .5s cubic-bezier(.22,.61,.36,1) backwards; }
+@keyframes reveal { from { opacity: 0; transform: translateX(-12px); } to { opacity: 1; transform: none; } }
+.typed { clip-path: url(#typewriter); animation: none; }
+.prompt { animation-delay: 2.79s !important; }
+.cursor { fill: #1A7F37; animation: blink 1.06s step-end infinite; }
+@keyframes blink { 0%, 100% { opacity: 1; } 50% { opacity: 0; } }
+@media (prefers-reduced-motion: reduce) { .row, .cursor { animation: none; } .typed { clip-path: none; } }
 </style>
-<text x="22" y="28" font-size="14px" class="text">
-<tspan x="22" y="28" class="accent">hosnibelfeki@github</tspan><tspan class="muted"> ------------------------------------------------</tspan>
-<tspan x="22" y="49" class="muted">. </tspan><tspan class="key">Name</tspan><tspan class="muted">: </tspan><tspan class="value">Hosni Belfeki</tspan>
-<tspan x="22" y="70" class="muted">. </tspan><tspan class="key">Role</tspan><tspan class="muted">: </tspan><tspan class="value">AI Engineer</tspan>
-<tspan x="22" y="91" class="muted">. </tspan><tspan class="key">Focus</tspan><tspan class="muted">: </tspan><tspan class="value">Agentic AI, LLM/RAG, Software Engineering</tspan>
-<tspan x="22" y="112" class="muted">. </tspan><tspan class="key">Education</tspan><tspan class="muted">: </tspan><tspan class="value">B.S. Computer Science</tspan>
-<tspan x="22" y="139" class="text">- Technical Stack </tspan><tspan class="muted">--------------------------------------------------</tspan>
-<tspan x="22" y="160" class="muted">. </tspan><tspan class="key">Languages</tspan><tspan class="muted">: </tspan><tspan class="value">Python, Go, TypeScript, JavaScript, Java, SQL</tspan>
-<tspan x="22" y="181" class="muted">. </tspan><tspan class="key">AI.LLM</tspan><tspan class="muted">: </tspan><tspan class="value">LangGraph, RAG, MCP, prompt engineering, evaluation</tspan>
-<tspan x="22" y="202" class="muted">. </tspan><tspan class="key">ML.CV</tspan><tspan class="muted">: </tspan><tspan class="value">PyTorch, TensorFlow, YOLOv8, OpenCV, NLP</tspan>
-<tspan x="22" y="223" class="muted">. </tspan><tspan class="key">Backend</tspan><tspan class="muted">: </tspan><tspan class="value">FastAPI, Node.js, Express, Spring Boot, REST/GraphQL</tspan>
-<tspan x="22" y="244" class="muted">. </tspan><tspan class="key">Data</tspan><tspan class="muted">: </tspan><tspan class="value">Qdrant, pgvector, BigQuery, Spark, MongoDB, MySQL</tspan>
-<tspan x="22" y="265" class="muted">. </tspan><tspan class="key">Cloud.MLOps</tspan><tspan class="muted">: </tspan><tspan class="value">AWS, GCP, Docker, Kubernetes, CI/CD, Jenkins</tspan>
-<tspan x="22" y="292" class="text">- Contact </tspan><tspan class="muted">----------------------------------------------------------</tspan>
-<tspan x="22" y="313" class="muted">. </tspan><tspan class="key">Email</tspan><tspan class="muted">: </tspan><tspan class="value">belfkihosni@gmail.com</tspan>
-<tspan x="22" y="334" class="muted">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="muted">: </tspan><tspan class="value">/in/hosnibelfeki</tspan>
-<tspan x="22" y="355" class="muted">. </tspan><tspan class="key">GitHub</tspan><tspan class="muted">: </tspan><tspan class="value">@HosniBelfeki</tspan>
-<tspan x="22" y="382" class="accent">$ echo </tspan><tspan class="text">&quot;Building scalable, reliable and practical AI software.&quot;</tspan>
-</text>
+<rect x="0.5" y="0.5" width="879" height="487" rx="12" fill="#FFFFFF" stroke="#D0D7DE"/>
+<path d="M0.5 12.5a12 12 0 0 1 12-12h855a12 12 0 0 1 12 12v26H0.5z" fill="#F6F8FA"/>
+<line x1="0.5" y1="38.5" x2="879.5" y2="38.5" stroke="#D0D7DE"/>
+<circle cx="24" cy="19.5" r="6" fill="#FF5F56"/>
+<circle cx="44" cy="19.5" r="6" fill="#FFBD2E"/>
+<circle cx="64" cy="19.5" r="6" fill="#27C93F"/>
+<text class="chrome" x="440" y="24" text-anchor="middle">hosnibelfeki@github: ~</text>
+<text class="row" x="26" y="70" style="animation-delay:0.00s"><tspan class="accent">hosnibelfeki@github</tspan><tspan class="muted"> ------------------------------------------------------------------</tspan></text>
+<text class="row" x="26" y="93" style="animation-delay:0.07s"><tspan class="muted">. </tspan><tspan class="key">Name</tspan><tspan class="muted">: </tspan><tspan class="value">Hosni Belfeki</tspan></text>
+<text class="row" x="26" y="116" style="animation-delay:0.14s"><tspan class="muted">. </tspan><tspan class="key">Role</tspan><tspan class="muted">: </tspan><tspan class="value">AI Engineer</tspan></text>
+<text class="row" x="26" y="139" style="animation-delay:0.21s"><tspan class="muted">. </tspan><tspan class="key">Focus</tspan><tspan class="muted">: </tspan><tspan class="value">Agentic AI, LLM/RAG, Software Engineering</tspan></text>
+<text class="row" x="26" y="162" style="animation-delay:0.28s"><tspan class="muted">. </tspan><tspan class="key">Education</tspan><tspan class="muted">: </tspan><tspan class="value">B.S. Computer Science</tspan></text>
+<text class="row" x="26" y="193" style="animation-delay:0.35s"><tspan class="text">- Technical Stack </tspan><tspan class="muted">--------------------------------------------------------------------</tspan></text>
+<text class="row" x="26" y="216" style="animation-delay:0.42s"><tspan class="muted">. </tspan><tspan class="key">Languages</tspan><tspan class="muted">: </tspan><tspan class="value">Python, Go, TypeScript, JavaScript, Java, SQL</tspan></text>
+<text class="row" x="26" y="239" style="animation-delay:0.49s"><tspan class="muted">. </tspan><tspan class="key">AI.LLM</tspan><tspan class="muted">: </tspan><tspan class="value">LangGraph, RAG, MCP, prompt engineering, evaluation</tspan></text>
+<text class="row" x="26" y="262" style="animation-delay:0.56s"><tspan class="muted">. </tspan><tspan class="key">ML.CV</tspan><tspan class="muted">: </tspan><tspan class="value">PyTorch, TensorFlow, YOLOv8, OpenCV, NLP</tspan></text>
+<text class="row" x="26" y="285" style="animation-delay:0.63s"><tspan class="muted">. </tspan><tspan class="key">Backend</tspan><tspan class="muted">: </tspan><tspan class="value">FastAPI, Node.js, Express, Spring Boot, REST/GraphQL</tspan></text>
+<text class="row" x="26" y="308" style="animation-delay:0.70s"><tspan class="muted">. </tspan><tspan class="key">Data</tspan><tspan class="muted">: </tspan><tspan class="value">Qdrant, pgvector, BigQuery, Spark, MongoDB, MySQL</tspan></text>
+<text class="row" x="26" y="331" style="animation-delay:0.77s"><tspan class="muted">. </tspan><tspan class="key">Cloud.MLOps</tspan><tspan class="muted">: </tspan><tspan class="value">AWS, GCP, Docker, Kubernetes, CI/CD, Jenkins</tspan></text>
+<text class="row" x="26" y="362" style="animation-delay:0.84s"><tspan class="text">- Contact </tspan><tspan class="muted">----------------------------------------------------------------------------</tspan></text>
+<text class="row" x="26" y="385" style="animation-delay:0.91s"><tspan class="muted">. </tspan><tspan class="key">Email</tspan><tspan class="muted">: </tspan><tspan class="value">belfkihosni@gmail.com</tspan></text>
+<text class="row" x="26" y="408" style="animation-delay:0.98s"><tspan class="muted">. </tspan><tspan class="key">LinkedIn</tspan><tspan class="muted">: </tspan><tspan class="value">/in/hosnibelfeki</tspan></text>
+<text class="row typed" x="26" y="439" style="animation-delay:1.05s"><tspan class="accent">$ echo </tspan><tspan class="text">&quot;Building scalable, reliable and practical AI software.&quot;</tspan></text>
+<text class="row prompt" x="26" y="462" style="animation-delay:1.12s"><tspan class="accent">$ </tspan><tspan class="cursor">█</tspan></text>
 </svg>
